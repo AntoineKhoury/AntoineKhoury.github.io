@@ -1,16 +1,16 @@
 # Welcome to Antoine Khoury's GitHub! 🚀
 
-<table>
+<table border="0" style="border-collapse: collapse; width: 100%;">
   <tr>
     <!-- Text Cell -->
-    <td>
+    <td style="width: 70%;">
       <h2>👨‍💻 About Me</h2>
       <p>I'm Antoine, a Machine Learning Engineer and Music Producer based in Paris, France. With a Master's degree in Machine Learning from University College London, I specialize in innovative algorithm design and AI applications. Currently, I'm exploring the frontiers of AI in enhancing music production and search functionalities in tech applications.</p>
     </td>
     
     <!-- Image Cell -->
-    <td>
-      <img src="https://github.com/AntoineKhoury/AntoineKhoury.github.io/blob/main/assests/image.png?raw=true" alt="Antoine Khoury" style="max-width:100%;height:auto;">
+    <td style="width: 30%;">
+      <img src="https://github.com/AntoineKhoury/AntoineKhoury.github.io/blob/main/assests/image.png?raw=true" alt="Antoine Khoury" style="max-width: 100%; height: auto; display: block;">
     </td>
   </tr>
 </table>
@@ -22,11 +22,18 @@
 - **Languages:** French (Native), English (Fluent), Spanish (Advanced)
 
 ## 💼 Experience
-- **Machine Learning Engineer Intern at Deezer**, Paris: Innovating on the search engine using GenAI models.
-  <img src="https://github.com/AntoineKhoury/AntoineKhoury.github.io/blob/main/assests/Deezer_Logo.jpg?raw=true" alt="Deezer Logo" width="100">
-  
-- **Intern in Innovation at Sopra Steria**, Paris: Organized two major conferences on advances in AI in the defense sector and was in charge of benchmarking AI solutions in the defense sector.
+<table border="0" style="width: 100%; border-collapse: collapse;">
+  <tr>
+    <td style="width: 90%;">
+      <strong>Machine Learning Engineer Intern at Deezer</strong>, Paris: Innovating on the search engine using GenAI models.
+    </td>
+    <td style="width: 10%;">
+      <img src="https://github.com/AntoineKhoury/AntoineKhoury.github.io/blob/main/assests/Deezer_Logo.jpg?raw=true" alt="Deezer Logo" width="100" style="display: block;">
+    </td>
+  </tr>
+</table>
 
+- **Intern in Innovation at Sopra Steria**, Paris: Organized two major conferences on advances in AI in the defense sector and was in charge of benchmarking AI solutions in the defense sector.
 - **Data Science/NLP Intern at Nunki.co**, Station F, Paris: Implemented AI solutions for crisis event detection with high accuracy.
 
 ## 🎶 Music Production
