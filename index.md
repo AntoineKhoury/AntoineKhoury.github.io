@@ -1,10 +1,10 @@
 # Welcome to Antoine Khoury's GitHub! 🚀
 
 ## 👨‍💻 About Me
-I'm Antoine, a Machine Learning Engineer and Music Producer based in Paris, France. With a Master's degree in Machine Learning & Computer Science from University College London, I specialize in innovative algorithm design and AI applications. Currently, I'm exploring the frontiers of AI in enhancing music production and search functionalities in tech applications.
+I'm Antoine, a Machine Learning Engineer and Music Producer based in Paris, France. With a Master's degree in Machine Learning from University College London, I specialize in innovative algorithm design and AI applications. Currently, I'm exploring the frontiers of AI in enhancing music production and search functionalities in tech applications.
 
 ## 🛠️ Technologies and Tools
-- **Programming:** Python, C++, JavaScript
+- **Programming:** Mainly Python, but also C++, C
 - **Frameworks & Libraries:** Tensorflow, Pytorch, Numpy, Pandas
 - **Tools:** Docker, AWS, Git
 - **Languages:** French (Native), English (Fluent), Spanish (Advanced)
@@ -24,7 +24,7 @@ Apart from coding, I produce music. My projects blend the precision of engineeri
 ## 📞 Let's Connect!
 I'm always open to collaborating on projects or discussing innovative ideas. Feel free to reach out!
 - **Email:** [antoine.r.a.khoury@gmail.com](mailto:antoine.r.a.khoury@gmail.com)
-- **LinkedIn:** [LinkedIn Profile](Your_LinkedIn_URL)
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/antoine-khoury-341b42167/)
 - **GitHub:** [AntoineKhoury](https://github.com/AntoineKhoury)
 
 Thank you for visiting my profile!
