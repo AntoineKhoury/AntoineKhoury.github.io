@@ -33,18 +33,18 @@
   </tr>
   <tr>
     <td style="width: 90%;">
-      <strong>Intern in Innovation at Sopra Steria</strong>, Paris: Organized two major conferences on advances in AI in the defense sector and was in charge of benchmarking AI solutions in the defense sector. <a href="https://www.soprasteria.com">Learn more</a>.
-    </td>
-    <td style="width: 10%;">
-      <img src="https://github.com/AntoineKhoury/AntoineKhoury.github.io/blob/main/assests/logo_sopra_steria.png?raw=true" alt="Sopra Steria Logo" width="100" style="display: block;">
-    </td>
-  </tr>
-  <tr>
-    <td style="width: 90%;">
       <strong>Data Science/NLP Intern at Nunki.co</strong>, Station F, Paris: Implemented AI solutions for crisis event detection with high accuracy. <a href="https://nunki.co">Learn more</a>.
     </td>
     <td style="width: 10%;">
       <img src="https://github.com/AntoineKhoury/AntoineKhoury.github.io/blob/main/assests/logo_nunki.png?raw=true" alt="Nunki Logo" width="100" style="display: block;">
+    </td>
+  </tr>
+  <tr>
+    <td style="width: 90%;">
+      <strong>Intern in Innovation at Sopra Steria</strong>, Paris: Organized two major conferences on advances in AI in the defense sector and was in charge of benchmarking AI solutions in the defense sector. <a href="https://www.soprasteria.com">Learn more</a>.
+    </td>
+    <td style="width: 10%;">
+      <img src="https://github.com/AntoineKhoury/AntoineKhoury.github.io/blob/main/assests/logo_sopra_steria.png?raw=true" alt="Sopra Steria Logo" width="100" style="display: block;">
     </td>
   </tr>
 </table>
