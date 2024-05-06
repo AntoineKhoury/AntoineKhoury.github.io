@@ -10,7 +10,7 @@
     
     <!-- Image Cell -->
     <td>
-      <img src="https://github.com/AntoineKhoury/AntoineKhoury.github.io/blob/main/assests/image.png" alt="Antoine Khoury" style="max-width:100%;height:auto;">
+      <img src="https://github.com/AntoineKhoury/AntoineKhoury.github.io/blob/main/assests/image.png?raw=true" alt="Antoine Khoury" style="max-width:100%;height:auto;">
     </td>
   </tr>
 </table>
@@ -23,7 +23,7 @@
 
 ## 💼 Experience
 - **Machine Learning Engineer Intern at Deezer**, Paris: Innovating on the search engine using GenAI models.
-  <img src="https://github.com/AntoineKhoury/AntoineKhoury.github.io/blob/main/assests/Deezer_Logo.jpg" alt="Deezer Logo" width="100">
+  <img src="https://github.com/AntoineKhoury/AntoineKhoury.github.io/blob/main/assests/Deezer_Logo.jpg?raw=true" alt="Deezer Logo" width="100">
   
 - **Intern in Innovation at Sopra Steria**, Paris: Organized two major conferences on advances in AI in the defense sector and was in charge of benchmarking AI solutions in the defense sector.
 
