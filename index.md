@@ -1,4 +1,4 @@
-# Welcome to Antoine Khoury's GitHub! 🚀
+# Welcome to Antoine Khoury's webpage! 🚀
 
 <table border="0" style="border-collapse: collapse; width: 100%;">
   <tr>
