@@ -10,7 +10,7 @@ I'm Antoine, a Machine Learning Engineer and Music Producer based in Paris, Fran
 - **Languages:** French (Native), English (Fluent), Spanish (Advanced)
 
 ## 💼 Experience
-- **Machine Learning Engineer Intern at Deezer**, Paris: Innovating on the search engine using GenAI models. ![Deezer]()
+- **Machine Learning Engineer Intern at Deezer**, Paris: Innovating on the search engine using GenAI models. ![Deezer](https://github.com/AntoineKhoury/AntoineKhoury.github.io/blob/main/assests/Deezer_Logo.jpg)
 - **Data Science/NLP Intern at Nunki.co**, Station F, Paris: Implemented AI solutions for crisis event detection with high accuracy.
 - 
 
