@@ -10,7 +10,7 @@
     
     <!-- Image Cell -->
     <td style="width: 30%;">
-      <img src="https://github.com/AntoineKhoury/AntoineKhoury.github.io/blob/main/assets/image.png?raw=true" alt="Antoine Khoury" style="max-width: 100%; height: auto; display: block;">
+      <img src="https://github.com/AntoineKhoury/AntoineKhoury.github.io/blob/main/assets/profile_picture.png?raw=true" alt="Antoine Khoury" style="max-width: 100%; height: auto; display: block;">
     </td>
   </tr>
 </table>
@@ -28,7 +28,7 @@
       <strong>Machine Learning Engineer Intern at Deezer</strong>, Paris: Innovating on the search engine using GenAI models.
     </td>
     <td style="width: 10%;">
-      <img src="https://github.com/AntoineKhoury/AntoineKhoury.github.io/blob/main/assets/Deezer_Logo.jpg?raw=true" alt="Deezer Logo" width="100" style="display: block;">
+      <img src="https://github.com/AntoineKhoury/AntoineKhoury.github.io/blob/main/assets/logo_deezer.jpg?raw=true" alt="Deezer Logo" width="100" style="display: block;">
     </td>
   </tr>
   <tr>
