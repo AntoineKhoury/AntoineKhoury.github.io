@@ -10,7 +10,7 @@
     
     <!-- Image Cell -->
     <td>
-      <img src="https://github.com/AntoineKhoury/AntoineKhoury.github.io/blob/main/assets/your-profile-image.png?raw=true" alt="Antoine Khoury" style="max-width:100%;height:auto;">
+      <img src="https://github.com/AntoineKhoury/AntoineKhoury.github.io/blob/main/assests/image.png" alt="Antoine Khoury" style="max-width:100%;height:auto;">
     </td>
   </tr>
 </table>
