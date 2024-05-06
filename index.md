@@ -16,7 +16,7 @@
 </table>
 
 ## 🛠️ Technologies and Tools
-- **Programming:** Mainly Python, but also C++, C
+- **Programming:** Mainly Python, but also SQL, Spark, Scala, C++, C
 - **Frameworks & Libraries:** Tensorflow, Pytorch, Numpy, Pandas
 - **Tools:** Docker, AWS, Git
 - **Languages:** French (Native), English (Fluent), Spanish (Advanced)
@@ -33,18 +33,18 @@
   </tr>
   <tr>
     <td style="width: 90%;">
-      <strong>Intern in Innovation at Sopra Steria</strong>, Paris: Organized two major conferences on advances in AI in the defense sector and was in charge of benchmarking AI solutions in the defense sector. <a href="https://www.soprasteria.com">Learn more</a>.
-    </td>
-    <td style="width: 10%;">
-      <img src="https://github.com/AntoineKhoury/AntoineKhoury.github.io/blob/main/assets/logo_sopra_steria.jpg?raw=true" alt="Sopra Steria Logo" width="100" style="display: block;">
-    </td>
-  </tr>
-  <tr>
-    <td style="width: 90%;">
       <strong>Data Science/NLP Intern at Nunki.co</strong>, Station F, Paris: Implemented AI solutions for crisis event detection with high accuracy. <a href="https://nunki.co">Learn more</a>.
     </td>
     <td style="width: 10%;">
       <img src="https://github.com/AntoineKhoury/AntoineKhoury.github.io/blob/main/assets/logo_nunki.jpg?raw=true" alt="Nunki Logo" width="100" style="display: block;">
+    </td>
+  </tr>
+    <tr>
+    <td style="width: 90%;">
+      <strong>Intern in Innovation at Sopra Steria</strong>, Paris: Organized two major conferences on advances in AI in the defense sector and was in charge of benchmarking AI solutions in the defense sector. <a href="https://www.soprasteria.com">Learn more</a>.
+    </td>
+    <td style="width: 10%;">
+      <img src="https://github.com/AntoineKhoury/AntoineKhoury.github.io/blob/main/assets/logo_sopra_steria.jpg?raw=true" alt="Sopra Steria Logo" width="100" style="display: block;">
     </td>
   </tr>
 </table>
