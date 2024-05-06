@@ -5,7 +5,7 @@
     <!-- Text Cell -->
     <td style="width: 70%;">
       <h2>👨‍💻 About Me</h2>
-      <p>I'm Antoine, a Machine Learning Engineer and Music Producer based in Paris, France. With a Master's degree in Machine Learning from University College London, I specialize in innovative algorithm design and AI applications. Currently, I'm exploring the frontiers of AI in enhancing music production and search functionalities in tech applications.</p>
+      <p>I'm Antoine, a Machine Learning Engineer and Music Production Enthusiast based in Paris, France. With a Master's degree in Machine Learning from University College London, I specialize in innovative algorithm design and AI applications. Currently, I'm exploring the frontiers of AI in enhancing music production and search functionalities in tech applications.</p>
     </td>
     
     <!-- Image Cell -->
