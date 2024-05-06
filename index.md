@@ -16,7 +16,7 @@
 </table>
 
 ## 🛠️ Technologies and Tools
-- **Programming:** Mainly Python, but also C++, C
+- **Programming:** Mainly Python, but also SQL, Scala, Spark, C++, C
 - **Frameworks & Libraries:** Tensorflow, Pytorch, Numpy, Pandas
 - **Tools:** Docker, AWS, Git
 - **Languages:** French (Native), English (Fluent), Spanish (Advanced)
