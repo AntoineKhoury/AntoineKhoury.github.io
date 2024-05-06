@@ -25,7 +25,7 @@
 <table border="0" style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="width: 90%;">
-      <strong>Machine Learning Engineer Intern at Deezer</strong>, Paris: Innovating on the search engine using GenAI models. 2024
+      <strong>Machine Learning Engineer Intern at Deezer</strong>, Paris: Innovating on the search engine using GenAI models. 2024 <a href="https://www.deezer.com">Learn more</a>.
     </td>
     <td style="width: 10%;">
       <img src="https://github.com/AntoineKhoury/AntoineKhoury.github.io/blob/main/assests/logo_deezer.jpg?raw=true" alt="Deezer Logo" width="100" style="display: block;">
