@@ -25,7 +25,7 @@
 <table border="0" style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="width: 90%;">
-      <strong>Machine Learning Engineer Intern at Deezer</strong>, Paris: Innovating on the search engine using GenAI models.
+      <strong>Machine Learning Engineer Intern at Deezer</strong>, Paris: Innovating on the search engine using GenAI models. 2024
     </td>
     <td style="width: 10%;">
       <img src="https://github.com/AntoineKhoury/AntoineKhoury.github.io/blob/main/assests/logo_deezer.jpg?raw=true" alt="Deezer Logo" width="100" style="display: block;">
@@ -33,7 +33,7 @@
   </tr>
   <tr>
     <td style="width: 90%;">
-      <strong>Data Science/NLP Intern at Nunki.co</strong>, Station F, Paris: Implemented AI solutions for crisis event detection with high accuracy. <a href="https://nunki.co">Learn more</a>.
+      <strong>Data Science/NLP Intern at Nunki.co</strong>, Station F, Paris: Implemented AI solutions for crisis event detection with high accuracy. 2022 <a href="https://nunki.co">Learn more</a>.
     </td>
     <td style="width: 10%;">
       <img src="https://github.com/AntoineKhoury/AntoineKhoury.github.io/blob/main/assests/logo_nunki.png?raw=true" alt="Nunki Logo" width="100" style="display: block;">
@@ -41,7 +41,7 @@
   </tr>
   <tr>
     <td style="width: 90%;">
-      <strong>Intern in Innovation at Sopra Steria</strong>, Paris: Organized two major conferences on advances in AI in the defense sector and was in charge of benchmarking AI solutions in the defense sector. <a href="https://www.soprasteria.com">Learn more</a>.
+      <strong>Intern in Innovation at Sopra Steria</strong>, Paris: Organized two major conferences on advances in AI in the defense sector and was in charge of benchmarking AI solutions in the defense sector. 2018 <a href="https://www.soprasteria.com">Learn more</a>.
     </td>
     <td style="width: 10%;">
       <img src="https://github.com/AntoineKhoury/AntoineKhoury.github.io/blob/main/assests/logo_sopra_steria.png?raw=true" alt="Sopra Steria Logo" width="100" style="display: block;">
