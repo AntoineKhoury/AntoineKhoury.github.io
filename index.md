@@ -24,15 +24,17 @@
 ## 💼 Experience
 - **Machine Learning Engineer Intern at Deezer**, Paris: Innovating on the search engine using GenAI models.
   <img src="https://github.com/AntoineKhoury/AntoineKhoury.github.io/blob/main/assets/Deezer_Logo.jpg?raw=true" alt="Deezer Logo" width="100">
+  
+- **Intern in Innovation at Sopra Steria**, Paris: Organized two major conferences on advances in AI in the defense sector and was in charge of benchmarking AI solutions in the defense sector.
 
 - **Data Science/NLP Intern at Nunki.co**, Station F, Paris: Implemented AI solutions for crisis event detection with high accuracy.
 
 ## 🎶 Music Production
 Apart from coding, I produce music. My projects blend the precision of engineering with the creativity of sound design. Check out my music projects [here](Your_Music_Link).
 
-## 📚 Projects
-- **Neural ODEs with Predictive Control**: Utilizing deep learning and control theory to optimize neural networks.
-- **Vision Chips with Deep Learning**: Developing an innovative model for enhancing vision processing technologies.
+## 📚 Research Projects
+- **Neural ODEs with Predictive Control**: Conducted within UCL, utilizing deep learning and control theory to optimize neural networks.
+- **Vision Chips with Deep Learning**: Developed at the University of Manchester, this project focused on developing an innovative model for enhancing vision processing technologies.
 
 ## 📞 Let's Connect!
 I'm always open to collaborating on projects or discussing innovative ideas. Feel free to reach out!
