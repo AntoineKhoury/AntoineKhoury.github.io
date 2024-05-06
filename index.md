@@ -10,7 +10,7 @@
     
     <!-- Image Cell -->
     <td style="width: 30%;">
-      <img src="https://github.com/AntoineKhoury/AntoineKhoury.github.io/blob/main/assets/profile_picture.png?raw=true" alt="Antoine Khoury" style="max-width: 100%; height: auto; display: block;">
+      <img src="https://github.com/AntoineKhoury/AntoineKhoury.github.io/blob/main/assets/profile_picture.jpg?raw=true" alt="Antoine Khoury" style="max-width: 100%; height: auto; display: block;">
     </td>
   </tr>
 </table>
@@ -28,7 +28,7 @@
       <strong>Machine Learning Engineer Intern at Deezer</strong>, Paris: Innovating on the search engine using GenAI models.
     </td>
     <td style="width: 10%;">
-      <img src="https://github.com/AntoineKhoury/AntoineKhoury.github.io/blob/main/assets/logo_deezer.jpg?raw=true" alt="Deezer Logo" width="100" style="display: block;">
+      <img src="https://github.com/AntoineKhoury/AntoineKhoury.github.io/blob/main/assets/logo_deezer.png?raw=true" alt="Deezer Logo" width="100" style="display: block;">
     </td>
   </tr>
   <tr>
@@ -36,7 +36,7 @@
       <strong>Data Science/NLP Intern at Nunki.co</strong>, Station F, Paris: Implemented AI solutions for crisis event detection with high accuracy. <a href="https://nunki.co">Learn more</a>.
     </td>
     <td style="width: 10%;">
-      <img src="https://github.com/AntoineKhoury/AntoineKhoury.github.io/blob/main/assets/logo_nunki.jpg?raw=true" alt="Nunki Logo" width="100" style="display: block;">
+      <img src="https://github.com/AntoineKhoury/AntoineKhoury.github.io/blob/main/assets/logo_nunki.png?raw=true" alt="Nunki Logo" width="100" style="display: block;">
     </td>
   </tr>
     <tr>
@@ -44,7 +44,7 @@
       <strong>Intern in Innovation at Sopra Steria</strong>, Paris: Organized two major conferences on advances in AI in the defense sector and was in charge of benchmarking AI solutions in the defense sector. <a href="https://www.soprasteria.com">Learn more</a>.
     </td>
     <td style="width: 10%;">
-      <img src="https://github.com/AntoineKhoury/AntoineKhoury.github.io/blob/main/assets/logo_sopra_steria.jpg?raw=true" alt="Sopra Steria Logo" width="100" style="display: block;">
+      <img src="https://github.com/AntoineKhoury/AntoineKhoury.github.io/blob/main/assets/logo_sopra_steria.png?raw=true" alt="Sopra Steria Logo" width="100" style="display: block;">
     </td>
   </tr>
 </table>
