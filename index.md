@@ -1,7 +1,19 @@
 # Welcome to Antoine Khoury's GitHub! 🚀
 
-## 👨‍💻 About Me
-I'm Antoine, a Machine Learning Engineer and Music Producer based in Paris, France. With a Master's degree in Machine Learning from University College London, I specialize in innovative algorithm design and AI applications. Currently, I'm exploring the frontiers of AI in enhancing music production and search functionalities in tech applications.
+<table>
+  <tr>
+    <!-- Text Cell -->
+    <td>
+      <h2>👨‍💻 About Me</h2>
+      <p>I'm Antoine, a Machine Learning Engineer and Music Producer based in Paris, France. With a Master's degree in Machine Learning from University College London, I specialize in innovative algorithm design and AI applications. Currently, I'm exploring the frontiers of AI in enhancing music production and search functionalities in tech applications.</p>
+    </td>
+    
+    <!-- Image Cell -->
+    <td>
+      <img src="https://github.com/AntoineKhoury/AntoineKhoury.github.io/blob/main/assets/your-profile-image.png?raw=true" alt="Antoine Khoury" style="max-width:100%;height:auto;">
+    </td>
+  </tr>
+</table>
 
 ## 🛠️ Technologies and Tools
 - **Programming:** Mainly Python, but also C++, C
@@ -10,9 +22,10 @@ I'm Antoine, a Machine Learning Engineer and Music Producer based in Paris, Fran
 - **Languages:** French (Native), English (Fluent), Spanish (Advanced)
 
 ## 💼 Experience
-- **Machine Learning Engineer Intern at Deezer**, Paris: Innovating on the search engine using GenAI models. ![Deezer](https://github.com/AntoineKhoury/AntoineKhoury.github.io/blob/main/assests/Deezer_Logo.jpg)
+- **Machine Learning Engineer Intern at Deezer**, Paris: Innovating on the search engine using GenAI models.
+  <img src="https://github.com/AntoineKhoury/AntoineKhoury.github.io/blob/main/assets/Deezer_Logo.jpg?raw=true" alt="Deezer Logo" width="100">
+
 - **Data Science/NLP Intern at Nunki.co**, Station F, Paris: Implemented AI solutions for crisis event detection with high accuracy.
-- 
 
 ## 🎶 Music Production
 Apart from coding, I produce music. My projects blend the precision of engineering with the creativity of sound design. Check out my music projects [here](Your_Music_Link).
