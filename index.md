@@ -5,18 +5,18 @@
     <!-- Text Cell -->
     <td style="width: 70%;">
       <h2>👨‍💻 About Me</h2>
-      <p>I'm Antoine, a Machine Learning Engineer and Music Production Enthusiast based in Paris, France. With a Master's degree in Machine Learning from University College London, I specialize in innovative algorithm design and AI applications. Currently, I'm exploring the frontiers of AI in enhancing music production and search functionalities in tech applications.</p>
+      <p>I'm Antoine, a Machine Learning Engineer based in Paris, France. With a Master's degree in Machine Learning from University College London, I specialize in innovative algorithm design and AI applications. Currently, I'm exploring the frontiers of AI in enhancing music production and search functionalities in tech applications.</p>
     </td>
     
     <!-- Image Cell -->
     <td style="width: 30%;">
-      <img src="https://github.com/AntoineKhoury/AntoineKhoury.github.io/blob/main/assets/profile_picture.jpg?raw=true" alt="Antoine Khoury" style="max-width: 100%; height: auto; display: block;">
+      <img src="https://github.com/AntoineKhoury/AntoineKhoury.github.io/blob/main/assests/photo_profile.png?raw=true" alt="Antoine Khoury" style="max-width: 100%; height: auto; display: block;">
     </td>
   </tr>
 </table>
 
 ## 🛠️ Technologies and Tools
-- **Programming:** Mainly Python, but also SQL, Spark, Scala, C++, C
+- **Programming:** Mainly Python, but also C++, C
 - **Frameworks & Libraries:** Tensorflow, Pytorch, Numpy, Pandas
 - **Tools:** Docker, AWS, Git
 - **Languages:** French (Native), English (Fluent), Spanish (Advanced)
@@ -28,7 +28,15 @@
       <strong>Machine Learning Engineer Intern at Deezer</strong>, Paris: Innovating on the search engine using GenAI models.
     </td>
     <td style="width: 10%;">
-      <img src="https://github.com/AntoineKhoury/AntoineKhoury.github.io/blob/main/assets/logo_deezer.png?raw=true" alt="Deezer Logo" width="100" style="display: block;">
+      <img src="https://github.com/AntoineKhoury/AntoineKhoury.github.io/blob/main/assests/logo_deezer.jpg?raw=true" alt="Deezer Logo" width="100" style="display: block;">
+    </td>
+  </tr>
+  <tr>
+    <td style="width: 90%;">
+      <strong>Intern in Innovation at Sopra Steria</strong>, Paris: Organized two major conferences on advances in AI in the defense sector and was in charge of benchmarking AI solutions in the defense sector. <a href="https://www.soprasteria.com">Learn more</a>.
+    </td>
+    <td style="width: 10%;">
+      <img src="https://github.com/AntoineKhoury/AntoineKhoury.github.io/blob/main/assests/logo_sopra_steria.png?raw=true" alt="Sopra Steria Logo" width="100" style="display: block;">
     </td>
   </tr>
   <tr>
@@ -36,21 +44,13 @@
       <strong>Data Science/NLP Intern at Nunki.co</strong>, Station F, Paris: Implemented AI solutions for crisis event detection with high accuracy. <a href="https://nunki.co">Learn more</a>.
     </td>
     <td style="width: 10%;">
-      <img src="https://github.com/AntoineKhoury/AntoineKhoury.github.io/blob/main/assets/logo_nunki.png?raw=true" alt="Nunki Logo" width="100" style="display: block;">
-    </td>
-  </tr>
-    <tr>
-    <td style="width: 90%;">
-      <strong>Intern in Innovation at Sopra Steria</strong>, Paris: Organized two major conferences on advances in AI in the defense sector and was in charge of benchmarking AI solutions in the defense sector. <a href="https://www.soprasteria.com">Learn more</a>.
-    </td>
-    <td style="width: 10%;">
-      <img src="https://github.com/AntoineKhoury/AntoineKhoury.github.io/blob/main/assets/logo_sopra_steria.png?raw=true" alt="Sopra Steria Logo" width="100" style="display: block;">
+      <img src="https://github.com/AntoineKhoury/AntoineKhoury.github.io/blob/main/assests/logo_nunki.png?raw=true" alt="Nunki Logo" width="100" style="display: block;">
     </td>
   </tr>
 </table>
 
-## 🎶 Music Production
-Apart from coding, I produce music. My projects blend the precision of engineering with the creativity of sound design. Check out my music projects [here](Your_Music_Link).
+## 🎶 Music Interests
+Apart from coding, I am an enthusiast in music production. My engagement blends the precision of engineering with the creativity of sound design. Check out my music projects [here](Your_Music_Link).
 
 ## 📚 Research Projects
 - **Neural ODEs with Predictive Control**: Conducted within UCL, utilizing deep learning and control theory to optimize neural networks.
