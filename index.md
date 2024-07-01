@@ -6,7 +6,7 @@ Hello! I'm Antoine Khoury, a passionate data scientist and machine learning engi
 ## Experience
 
 ### Machine Learning Engineer Intern at Deezer
-![Deezer Logo](assests/deezer.png)
+![Deezer Logo](assests/logo_deezer.jpeg)
 - **When**: 2024 - Currently
 - **What I do**: Leverage LLMs and Transformer concepts for improving the search engine capabilities. Developed a daily job for computing offline query embeddings which enhanced the search engine performance. Deployed a playlist generation assistant serving 350k users using advanced AI concepts like the "chain of thoughts."
 
@@ -16,7 +16,7 @@ Hello! I'm Antoine Khoury, a passionate data scientist and machine learning engi
 - **What I do**: Lead the AI component of the startup. Designed and developed an adaptive learning tool and question generation AI that directly interacts with users, collecting feedback from educational professionals to enhance learning outcomes.
 
 ### NLP Intern at Everdian
-![Everdian Logo](assests/everdian.png)
+![Everdian Logo](assests/logo_nuki.png)
 - **When**: 2021
 - **What I do**: Led the development of NLP tools for crisis event detection and sentiment analysis on social media platforms, improving feature capabilities and accuracy in multiple languages.
 
