@@ -1,6 +1,6 @@
 # Welcome to Antoine Khoury's Portfolio
 
-![Edjoy Logo](assets/edjoy.jpeg)
+![Edjoy Logo](assests/edjoy.jpeg)
 
 ## About Me
 Hello! I'm Antoine Khoury, a passionate data scientist and machine learning engineer based in Paris, France. With a strong educational background in machine learning and AI from University College London and the University of Manchester, I specialize in NLP, deep learning, and AI-driven solution deployment. I currently co-lead Edjoy and work as a Machine Learning Engineer Intern at Deezer.
