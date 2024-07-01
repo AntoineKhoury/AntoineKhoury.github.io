@@ -1,65 +1,48 @@
-# Welcome to Antoine Khoury's webpage! 🚀
+# Welcome to Antoine Khoury's Portfolio
 
-<table border="0" style="border-collapse: collapse; width: 100%;">
-  <tr>
-    <!-- Text Cell -->
-    <td style="width: 70%;">
-      <h2>👨‍💻 About Me</h2>
-      <p>I'm Antoine, a Machine Learning Engineer based in Paris, France. With a Master's degree in Machine Learning from University College London, I specialize in innovative algorithm design and AI applications. Currently, I'm exploring the frontiers of AI in enhancing music production and search functionalities in tech applications.</p>
-    </td>
-    
-    <!-- Image Cell -->
-    <td style="width: 30%;">
-      <img src="https://github.com/AntoineKhoury/AntoineKhoury.github.io/blob/main/assests/photo_profile.png?raw=true" alt="Antoine Khoury" style="max-width: 100%; height: auto; display: block;">
-    </td>
-  </tr>
-</table>
+![Edjoy Logo](assets/edjoy.jpeg)
 
-## 🛠️ Technologies and Tools
-- **Programming:** Mainly Python, but also SQL, Scala, Spark, C++, C
-- **Frameworks & Libraries:** Tensorflow, Pytorch, Numpy, Pandas
-- **Tools:** Docker, AWS, Git
-- **Languages:** French (Native), English (Fluent), Spanish (Advanced)
+## About Me
+Hello! I'm Antoine Khoury, a passionate data scientist and machine learning engineer based in Paris, France. With a strong educational background in machine learning and AI from University College London and the University of Manchester, I specialize in NLP, deep learning, and AI-driven solution deployment. I currently co-lead Edjoy and work as a Machine Learning Engineer Intern at Deezer.
 
-## 💼 Experience
-<table border="0" style="width: 100%; border-collapse: collapse;">
-  <tr>
-    <td style="width: 90%;">
-      <strong>Machine Learning Engineer Intern at Deezer</strong>, Paris: Innovating on the search engine using GenAI models. 2024 <a href="https://www.deezer.com">Learn more</a>.
-    </td>
-    <td style="width: 10%;">
-      <img src="https://github.com/AntoineKhoury/AntoineKhoury.github.io/blob/main/assests/logo_deezer.jpg?raw=true" alt="Deezer Logo" width="100" style="display: block;">
-    </td>
-  </tr>
-  <tr>
-    <td style="width: 90%;">
-      <strong>Data Science/NLP Intern at Nunki.co</strong>, Station F, Paris: Implemented AI solutions for crisis event detection with high accuracy. 2022 <a href="https://nunki.co">Learn more</a>.
-    </td>
-    <td style="width: 10%;">
-      <img src="https://github.com/AntoineKhoury/AntoineKhoury.github.io/blob/main/assests/logo_nunki.png?raw=true" alt="Nunki Logo" width="100" style="display: block;">
-    </td>
-  </tr>
-  <tr>
-    <td style="width: 90%;">
-      <strong>Intern in Innovation at Sopra Steria</strong>, Paris: Organized two major conferences on advances in AI in the defense sector and was in charge of benchmarking AI solutions in the defense sector. 2018 <a href="https://www.soprasteria.com">Learn more</a>.
-    </td>
-    <td style="width: 10%;">
-      <img src="https://github.com/AntoineKhoury/AntoineKhoury.github.io/blob/main/assests/logo_sopra_steria.png?raw=true" alt="Sopra Steria Logo" width="100" style="display: block;">
-    </td>
-  </tr>
-</table>
+## Experience
 
-## 🎶 Music Interests
-Apart from coding, I am an enthusiast in music production. My engagement blends the precision of engineering with the creativity of sound design. Check out my music projects [here](Your_Music_Link).
+### Machine Learning Engineer Intern at Deezer
+- **When**: 2024 - Currently
+- **What I do**: Leverage LLMs and Transformer concepts for improving the search engine capabilities. Developed a daily job for computing offline query embeddings which enhanced the search engine performance. Deployed a playlist generation assistant serving 350k users using advanced AI concepts like the "chain of thoughts."
 
-## 📚 Research Projects
-- **Neural ODEs with Predictive Control**: Conducted within UCL, utilizing deep learning and control theory to optimize neural networks.
-- **Vision Chips with Deep Learning**: Developed at the University of Manchester, this project focused on developing an innovative model for enhancing vision processing technologies.
+### Head of AI/ Co-Founder at [Edjoy](https://www.edjoy.io/)
+- **When**: 2024 - Currently
+- **What I do**: Lead the AI component of the startup. Designed and developed an adaptive learning tool and question generation AI that directly interacts with users, collecting feedback from educational professionals to enhance learning outcomes.
 
-## 📞 Let's Connect!
-I'm always open to collaborating on projects or discussing innovative ideas. Feel free to reach out!
-- **Email:** [antoine.r.a.khoury@gmail.com](mailto:antoine.r.a.khoury@gmail.com)
-- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/antoine-khoury-341b42167/)
-- **GitHub:** [AntoineKhoury](https://github.com/AntoineKhoury)
+### NLP Intern at Everdian
+- **When**: 2021
+- **What I do**: Led the development of NLP tools for crisis event detection and sentiment analysis on social media platforms, improving feature capabilities and accuracy in multiple languages.
 
-Thank you for visiting my profile!
+## Education
+
+### University College London
+- **Degree**: Master of Science in Machine Learning
+- **Years**: 2020 – 2023
+- **Thesis**: Agent Mood Training in the Unsupervised Environment Design Framework
+- **Key Modules**: NLP, Reinforcement Learning, Multi-agent AI, Unsupervised Learning
+
+### University of Manchester
+- **Degree**: Bachelor of Electrical and Electronic Engineering
+- **Years**: 2017 – 2020
+- **Project**: Investigate an original deep learning model for vision chips
+
+## Skills
+- **Programming Languages**: Python, C#, C++, C
+- **Technologies**: Git, Docker, AWS, GCP, Kubernetes, Jenkins, FastAPI
+- **Frameworks**: Pytorch, Tensorflow
+
+## Interests
+- Sound Design, Chess, Music Production, Bouldering
+
+## Contact
+Feel free to reach out via email at [antoine.r.a.khoury@gmail.com](mailto:antoine.r.a.khoury@gmail.com) or connect with me on LinkedIn.
+
+## Contributions
+Check out my GitHub for recent projects: [GitHub Profile](https://github.com/AntoineKhoury)
+
