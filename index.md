@@ -6,17 +6,26 @@ Hello! I'm Antoine Khoury, a passionate data scientist and machine learning engi
 ## Experience
 
 ### Machine Learning Engineer Intern at Deezer
-![Deezer Logo](assests/logo_deezer.jpg)
+<div style="float: right;">
+    <img src="assests/logo_deezer.jpg" width="150">
+</div>
+
 - **When**: 2024 - Currently
 - **What I do**: Leverage LLMs and Transformer concepts for improving the search engine capabilities. Developed a daily job for computing offline query embeddings which enhanced the search engine performance. Deployed a playlist generation assistant serving 350k users using advanced AI concepts like the "chain of thoughts."
 
 ### Head of AI/ Co-Founder at [Edjoy](https://www.edjoy.io/)
-![Edjoy Logo](assests/edjoy.jpeg)
+<div style="float: right;">
+    <img src="assests/edjoy.jpeg" width="150">
+</div>
+
 - **When**: 2024 - Currently
 - **What I do**: Lead the AI component of the startup. Designed and developed an adaptive learning tool and question generation AI that directly interacts with users, collecting feedback from educational professionals to enhance learning outcomes.
 
 ### NLP Intern at Everdian
-![Everdian Logo](assests/logo_nunki.png)
+<div style="float: right;">
+    <img src="assests/logo_nunki.png" width="150">
+</div>
+
 - **When**: 2021
 - **What I do**: Led the development of NLP tools for crisis event detection and sentiment analysis on social media platforms, improving feature capabilities and accuracy in multiple languages.
 
